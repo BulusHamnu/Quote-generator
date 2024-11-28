@@ -1,0 +1,5 @@
+﻿https://github.com/lukePeavey/quotable
+
+https://api.quotable.io
+
+Font Roboto
